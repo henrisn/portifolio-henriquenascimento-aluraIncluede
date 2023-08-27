@@ -422,7 +422,7 @@ span {
 
 
 .rodape {
-    padding: 20px;
+    padding: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
