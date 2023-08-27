@@ -444,7 +444,6 @@ span {
 }
 
 .rodape p {
-    flex-direction: column;
     font-size: 14px;
     color: #888;
     margin-top: 10px;
