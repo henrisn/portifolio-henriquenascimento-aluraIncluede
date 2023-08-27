@@ -457,3 +457,10 @@ span {
 .rodape img {
     max-width: 100px;
 }
+
+@media screen and (max-width: 768px) {
+    .rodape p {
+        font-size: 12px;
+        margin-top: 8px;
+    }
+}
