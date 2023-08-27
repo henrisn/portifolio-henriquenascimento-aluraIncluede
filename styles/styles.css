@@ -143,6 +143,11 @@ span {
         min-height: 100px;
     }
 
+    .rodape p {
+        font-size: 12px; 
+        margin-top: 8px;
+    }
+
     .form-container {
         flex-direction: column;
         text-align: center;
